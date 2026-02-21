@@ -1,0 +1,7 @@
+{
+    "wifi_ssid": "YOUR_WIFI_SSID",
+    "wifi_password": "YOUR_WIFI_PASSWORD",
+    "printer_ip": "PRINTER_LAN_IP",
+    "printer_serial": "YOUR_PRINTER_SERIAL",
+    "printer_access_code": "YOUR_8CHAR_CODE"
+}
